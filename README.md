@@ -137,7 +137,6 @@ Log files include:
 ```
 simple-serial-terminal/
 ├── simple-terminal.py          # Main application
-├── terminal.py                 # Original HP 8564E terminal (reference)
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 └── logs/                       # Generated log files (created automatically)
