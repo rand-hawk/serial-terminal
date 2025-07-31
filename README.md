@@ -253,7 +253,6 @@ If you encounter any issues or have questions:
 
 ## Related Projects
 
-- [HP 8564E Terminal](terminal.py) - Specialized terminal for HP spectrum analyzer
 - [PySerial](https://github.com/pyserial/pyserial) - Serial communication library
 - [PuTTY](https://www.putty.org/) - Popular terminal emulator
 
